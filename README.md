@@ -18,14 +18,6 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
 2. Navega hasta el directorio del proyecto.
 3. Abre el archivo `index.html` en tu navegador.
 
-## Uso
-
-El álbum de fotografía se abre en una página de inicio que presenta un resumen del proyecto y dos botones de llamada a la acción. La navegación se realiza a través de un menú desplegable en la esquina superior derecha.
-
-En la sección "Acerca de", puedes encontrar información sobre el proyecto y en la sección "Contacto", hay enlaces para seguir el proyecto en Instagram, darle "like" en Facebook o enviar un correo.
-
-Las imágenes se presentan en una cuadrícula responsiva en la sección principal de la página. Al hacer clic en una imagen, se abre en un modal con la opción de desplazarse por las demás imágenes de la galería.
-
 ## Contribución
 
 Las contribuciones son bienvenidas. Para cualquier cambio importante, por favor abre un problema primero para discutir lo que te gustaría cambiar.
